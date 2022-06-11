@@ -1,7 +1,7 @@
 import time
 import random
 
-numbers_to_sort = 10000
+numbers_to_sort = 100000
 
 def bubble_sort(list_of_numbers_to_sort):
     swapped = True
