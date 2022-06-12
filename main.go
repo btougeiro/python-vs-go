@@ -6,7 +6,7 @@ import (
     "fmt"
 )
 
-const numbersToSort int = 100000
+const numbersToSort int = 1000
 
 func bubbleSort(listOfRandomNumbersToSort []int) {
     swapped := true
